@@ -2,7 +2,7 @@
 title: Bottles
 ---
 
-<section class="hero dark">
+<section class="hero">
   <div class="container">
     <h1>Run Windows in<strong>a Bottle</strong></h1>
     <p>Easily run Windows software on Linux with 🍷 Bottles!</p>
