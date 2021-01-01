@@ -137,3 +137,9 @@ section.hero .button:hover {
 section.hero .button:active {
     opacity: .7;
 }
+
+section.downloads .right,section.downloads .left {
+    display: inline-table;
+    width: 45%;
+    vertical-align: top;
+}
