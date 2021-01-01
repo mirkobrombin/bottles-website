@@ -39,7 +39,61 @@ nav a.brand {
 .button, nav a.button {
     padding: .5rem 1rem;
     font-weight: 800;
-    background-color: #ce1315;
+    background-color: #e81d43;
     color: #fff;
     border-radius: .3rem;
+}
+
+nav a:hover {
+    opacity: .8;
+}
+
+.button:hover, nav a.button:hover {
+    background-color: #e43839;
+}
+
+.button:active, nav a.button:active {
+    background-color: #9e3636;
+}
+
+main > section {
+    padding: 6rem 4rem;
+}
+
+section.hero {
+    text-align: center;
+}
+
+section.hero img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1rem;
+}
+
+section.hero h1 {
+    font-weight: 400;
+    margin: 0;
+}
+
+section.hero p {
+    font-size: 18px;
+}
+
+section.hero .button {
+    display: inline-block;
+    font-size: 20px;
+    padding: .8rem 1.5rem;
+    font-weight: 500;
 }
