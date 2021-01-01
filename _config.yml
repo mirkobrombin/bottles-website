@@ -5,3 +5,8 @@ logo: /assets/logo.svg
 description: This is our the for GitHub Pages.
 
 markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
