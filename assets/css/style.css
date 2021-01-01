@@ -2,4 +2,41 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  margin: 0;
+  font-size: 16px;
+}
+
+nav {
+    padding: 1rem 2rem;
+    text-align: right;
+    min-height: 1.6rem;
+}
+
+nav a > img {
+    max-height: 1.5rem;
+}
+
+nav a:not(.brand) {
+    text-decoration: none;
+    padding: .4rem .1rem;
+    margin: 0 .4rem;
+    position: relative;
+    top: .2rem;
+    font-size: 15px;
+}
+
+nav a.brand {
+    float: left;
+}
+
+.button, nav a.button {
+    padding: .5rem 1rem;
+    font-weight: 800;
+    background-color: #ce1315;
+    color: #fff;
+    border-radius: .3rem;
+}
+
+a {
+    color: #2b2b2b;
 }
