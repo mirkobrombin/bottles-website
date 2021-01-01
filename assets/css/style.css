@@ -143,3 +143,12 @@ section.downloads .image, section.downloads .info {
     width: 45%;
     vertical-align: top;
 }
+
+section.downloads .image+.info {
+    width: 20%;
+    max-width: 31rem;
+}
+
+section.downloads .info {
+    margin: 5rem 2rem;
+}
