@@ -85,10 +85,13 @@ h3 {
 section.hero h1 {
     font-weight: 400;
     margin: 0;
+    letter-spacing: -.1rem;
+    line-height: 1;
 }
 
 section.hero p {
-    font-size: 18px;
+    font-size: 20px;
+    margin: 1rem 0 1.8rem;
 }
 
 section.hero .button {
@@ -111,4 +114,23 @@ footer p {
     letter-spacing: .03rem;
     font-weight: 400;
     color: #666;
+}
+
+
+section.hero.dark {
+    background-color: #313131;
+    color: #fff;
+}
+
+section.hero.dark .button {
+    background-color: #fff;
+    color: #191919;
+}
+
+section.hero .button:hover {
+    opacity: .8;
+}
+
+section.hero .button:active {
+    opacity: .7;
 }
