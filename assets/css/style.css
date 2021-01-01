@@ -6,6 +6,10 @@ body {
   font-size: 16px;
 }
 
+a {
+    color: #2b2b2b;
+}
+
 nav {
     padding: 1rem 2rem;
     text-align: right;
@@ -16,8 +20,11 @@ nav a > img {
     max-height: 1.5rem;
 }
 
-nav a:not(.brand) {
+nav a, a.button {
     text-decoration: none;
+}
+
+nav a:not(.brand) {
     padding: .4rem .1rem;
     margin: 0 .4rem;
     position: relative;
@@ -35,8 +42,4 @@ nav a.brand {
     background-color: #ce1315;
     color: #fff;
     border-radius: .3rem;
-}
-
-a {
-    color: #2b2b2b;
 }
