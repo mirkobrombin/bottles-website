@@ -4,6 +4,9 @@ author: Bottles Developers
 email: mail@usebottles.com
 logo: /uploads/logo.svg
 
+assets: assets
+uploads: uploads
+
 markdown: kramdown
 defaults:
   - scope:
