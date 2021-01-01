@@ -9,7 +9,7 @@ title: Download
       <img class="animate__animated animate__fadeInUp" src="https://raw.githubusercontent.com/mirkobrombin/Bottles/master/screenshot-0.png" />
     </div>
     <div class="info">
-      <h1 class="animate__animated animate__fadeInRight">Bottles 2</h1>
+      <h2 class="animate__animated animate__fadeInRight">Bottles 2</h2>
       <p>Try the next release of Bottles! <small>(.AppImage)</small></p>
       <a class="button" href="https://github.com/bottlesdevs/Bottles/releases/tag/continuous" title="Download Bottles (.AppImage)">Download</a>
       <div class="more-links">
@@ -21,7 +21,7 @@ title: Download
   <!-- v1 -->
   <div class="container">
     <div class="info">
-      <h1 class="animate__animated animate__fadeInRight">Bottles 2</h1>
+      <h2 class="animate__animated animate__fadeInRight">Bottles 2</h2>
       <p>Try the next release of Bottles! <small>(.AppImage)</small></p>
       <a class="button" href="https://github.com/bottlesdevs/Bottles/releases/tag/continuous-v1" title="Download Bottles v1 (.deb)">Download</a>
     </div>
