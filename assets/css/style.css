@@ -171,6 +171,7 @@ section.downloads .info h2 {
 section.downloads p {
     margin: 1rem 0;
     padding: 0;
+    color: #666;
 }
 section.downloads .container > .info:first-child {
     text-align: right;
