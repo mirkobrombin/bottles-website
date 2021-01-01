@@ -92,12 +92,12 @@ section.hero h1 {
     line-height: 1;
 }
 
-section.hero p {
+section p {
     font-size: 20px;
     margin: 1rem 0 1.5rem;
 }
 
-section.hero .button {
+section .button {
     display: inline-block;
     font-size: 20px;
     padding: .8rem 1.5rem;
@@ -130,11 +130,11 @@ section.hero.dark .button {
     color: #191919;
 }
 
-section.hero .button:hover {
+section .button:hover {
     opacity: .8;
 }
 
-section.hero .button:active {
+section .button:active {
     opacity: .7;
 }
 
@@ -151,4 +151,9 @@ section.downloads .image+.info {
 
 section.downloads .info {
     margin: 5rem 2rem;
+}
+
+.more-links {
+    margin: 2rem 0 0 0;
+    font-size: 12px;
 }
