@@ -101,3 +101,14 @@ section.hero .button {
 section.hero h1 strong {
     display: block;
 }
+
+footer {
+    text-align: center;
+    padding: 6rem 4rem;
+}
+
+footer p {
+    letter-spacing: .03rem;
+    font-weight: 400;
+    color: #666;
+}
