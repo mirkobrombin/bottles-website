@@ -138,7 +138,7 @@ section.hero .button:active {
     opacity: .7;
 }
 
-section.downloads .right,section.downloads .left {
+section.downloads .image, section.downloads .info {
     display: inline-table;
     width: 45%;
     vertical-align: top;
